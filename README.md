@@ -2,12 +2,12 @@
  * @Author: 姚恒锋 1921934563@qq.com
  * @Date: 2023-09-05 15:21:25
  * @LastEditors: 姚恒锋 1921934563@qq.com
- * @LastEditTime: 2023-09-05 15:24:45
+ * @LastEditTime: 2023-09-05 15:27:58
  * @FilePath: \elec-temp\README.md
  * @Description: README.md
 -->
 
-# Electron Vue3+TS 脚手架
+# Electron Vue3+TS Handle/脚手架
 
 ### elecp
 ```bash
