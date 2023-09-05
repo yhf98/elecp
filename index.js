@@ -77,7 +77,7 @@ commander.command('create <projectName>').action((projectName) => {
 
 })
 // 定义版本
-commander.version("0.0.1");
+commander.version("0.0.4");
 // 绑定解析
 commander.parse(process.argv);
 

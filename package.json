@@ -1,7 +1,7 @@
 {
   "name": "elecp",
   "author": "Yao Hengfeng <1921934563@qq.com>",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Electron Vue3+TS 脚手架",
   "homepage": "blog.aikezc.com",
   "main": "index.js",
