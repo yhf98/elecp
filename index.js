@@ -45,6 +45,7 @@ commander.command('create <projectName>').action((projectName) => {
                     try {
                         await extract(path.join(process.cwd(), tempalteFileName), { dir: process.cwd() })
                         fs.unlinkSync(tempalteFileName);
+                        fs.writeFileSync("package.json", pkgJSON(projectName));
                         spinner.stop()
                         console.log(chalk.green('项目初始化完成！'))
                     } catch (err) {
